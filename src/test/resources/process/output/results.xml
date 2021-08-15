@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ranks>
+    <rank>
+        <position>1</position>
+        <point>4200</point>
+        <athlete>
+            <name>John Smith</name>
+            <score>
+                <hundred_m>12.61</hundred_m>
+                <long_jump>5.00</long_jump>
+                <shot_put>9.22</shot_put>
+                <high_jump>1.50</high_jump>
+                <four_hundred_m>60.39</four_hundred_m>
+                <hundred_ten_m>16.43</hundred_ten_m>
+                <discus_throw>21.60</discus_throw>
+                <pole_vault>2.60</pole_vault>
+                <javelin_throw>35.81</javelin_throw>
+                <thousand_five_hundred_m>5.25.72 </thousand_five_hundred_m>
+            </score>
+        </athlete>
+    </rank>
+    <rank>
+        <position>2</position>
+        <point>3494</point>
+        <athlete>
+            <name>Jaan Lepp</name>
+            <score>
+                <hundred_m>13.75</hundred_m>
+                <long_jump>4.84</long_jump>
+                <shot_put>10.12</shot_put>
+                <high_jump>1.50</high_jump>
+                <four_hundred_m>68.44</four_hundred_m>
+                <hundred_ten_m>19.18</hundred_ten_m>
+                <discus_throw>30.85</discus_throw>
+                <pole_vault>2.80</pole_vault>
+                <javelin_throw>33.88</javelin_throw>
+                <thousand_five_hundred_m>6.22.75 </thousand_five_hundred_m>
+            </score>
+        </athlete>
+    </rank>
+    <rank>
+        <position>3</position>
+        <point>3199</point>
+        <athlete>
+            <name>Jane Doe</name>
+            <score>
+                <hundred_m>13.04</hundred_m>
+                <long_jump>4.53</long_jump>
+                <shot_put>7.79</shot_put>
+                <high_jump>1.55</high_jump>
+                <four_hundred_m>64.72</four_hundred_m>
+                <hundred_ten_m>18.74</hundred_ten_m>
+                <discus_throw>24.20</discus_throw>
+                <pole_vault>2.40</pole_vault>
+                <javelin_throw>28.20</javelin_throw>
+                <thousand_five_hundred_m>6.50.76 </thousand_five_hundred_m>
+            </score>
+        </athlete>
+    </rank>
+    <rank>
+        <position>4</position>
+        <point>3099</point>
+        <athlete>
+            <name>Foo Bar</name>
+            <score>
+                <hundred_m>13.43</hundred_m>
+                <long_jump>4.35</long_jump>
+                <shot_put>8.64</shot_put>
+                <high_jump>1.50</high_jump>
+                <four_hundred_m>66.06</four_hundred_m>
+                <hundred_ten_m>19.05</hundred_ten_m>
+                <discus_throw>24.89</discus_throw>
+                <pole_vault>2.20</pole_vault>
+                <javelin_throw>33.48</javelin_throw>
+                <thousand_five_hundred_m>6.51.01</thousand_five_hundred_m>
+            </score>
+        </athlete>
+    </rank>
+</ranks>
